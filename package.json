@@ -1,7 +1,7 @@
 {
-  "name": "karma-teamcity-reporter",
+  "name": "karma-teamcity-reporter-patched",
   "version": "0.1.0",
-  "description": "A Karma plugin. Report results for Teamcity CI.",
+  "description": "A Karma plugin. Report results for Teamcity CI. Patched to replace literal \n with teamcity new lines",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
